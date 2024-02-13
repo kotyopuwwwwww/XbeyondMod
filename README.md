@@ -1,2 +1,3 @@
 # Xbeyond-Mod
-This mod is Xbeyond`s project and hes fast modding.
+This mod is Xbeyond`s project.
+and He`s fast modding
