@@ -32,7 +32,7 @@
 			},
 			{
 				"id": "minecraft",
-				"versions": ">=1.20.X"
+				"versions": ">=1.21.X"
 			}
 		]
 	},
